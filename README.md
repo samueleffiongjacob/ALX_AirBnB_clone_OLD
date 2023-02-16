@@ -1,4 +1,4 @@
-[![Show Static Pages Demo](/docs/show_static_pages_btn.png)](https://kalbetre-alx.github.io/AirBnB_clone/web_static)
+[![Show Static Pages Demo](/docs/show_static_pages_btn.png)]()
 
 # AirBnB Clone - The Console
 
